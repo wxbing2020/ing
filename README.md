@@ -8,4 +8,4 @@
 如果您认为该项目的内容可能涉嫌侵犯其权利，请与我联系，我会尽快删除文件
 
 如果您使用并复制了任何本仓库的内容，则视为您已接受此免责声明.
-![](http://profile-counter.glitch/wxbing2020)
+![](http://profile-counter/wxbing2020)
